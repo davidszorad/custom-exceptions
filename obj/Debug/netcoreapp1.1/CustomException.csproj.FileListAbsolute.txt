@@ -1,0 +1,10 @@
+/Users/davidszorad/Dev/CustomException/CustomException/bin/Debug/netcoreapp1.1/CustomException.deps.json
+/Users/davidszorad/Dev/CustomException/CustomException/bin/Debug/netcoreapp1.1/CustomException.runtimeconfig.json
+/Users/davidszorad/Dev/CustomException/CustomException/bin/Debug/netcoreapp1.1/CustomException.runtimeconfig.dev.json
+/Users/davidszorad/Dev/CustomException/CustomException/bin/Debug/netcoreapp1.1/CustomException.dll
+/Users/davidszorad/Dev/CustomException/CustomException/bin/Debug/netcoreapp1.1/CustomException.pdb
+/Users/davidszorad/Dev/CustomException/CustomException/obj/Debug/netcoreapp1.1/CustomException.csprojResolveAssemblyReference.cache
+/Users/davidszorad/Dev/CustomException/CustomException/obj/Debug/netcoreapp1.1/CustomException.csproj.CoreCompileInputs.cache
+/Users/davidszorad/Dev/CustomException/CustomException/obj/Debug/netcoreapp1.1/CustomException.AssemblyInfo.cs
+/Users/davidszorad/Dev/CustomException/CustomException/obj/Debug/netcoreapp1.1/CustomException.dll
+/Users/davidszorad/Dev/CustomException/CustomException/obj/Debug/netcoreapp1.1/CustomException.pdb
